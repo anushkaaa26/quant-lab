@@ -1,0 +1,5 @@
+Strategy,Annualized Return,Volatility,Gross Sharpe,Net Sharpe,Max Drawdown,Annual Turnover,Bootstrap 95% CI,DSR p-value
+Buy & Hold,11.87%,20.80%,0.57,0.25,-29.19%,0.00x,"[-0.57, 1.61]",0.0000
+TS Momentum (60d),-7.87%,20.83%,-0.21,-0.70,-40.34%,24.59x,"[-1.55, 0.84]",0.0000
+Mean Reversion (20d),1.76%,15.14%,0.35,-0.33,-19.11%,25.27x,"[-0.85, 1.08]",0.0000
+Walk-Forward XGBoost,-29.85%,17.81%,-0.47,-2.06,-62.27%,155.02x,"[-2.63, -0.74]",0.0000
